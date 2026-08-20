@@ -37,7 +37,7 @@ public class BakeryLock implements Lock {
                     break;
                 }
             }
-            if (blocked) {
+            if (!blocked) {
                 break;
             }
         }
