@@ -53,6 +53,7 @@ public class Main
                     finally 
                     {
                         lock.unlock(threadId);
+                        System.out.println("Thread " + threadId + " released lock");
                     }
                 }
             });
