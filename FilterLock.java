@@ -1,3 +1,8 @@
+/*
+Caleb Jennings - u25173805
+Anchen Kruger - u25073703
+Chloe Larsen - u25004141
+*/
 public class FilterLock implements Lock {
 
     private final int n;

@@ -1,3 +1,8 @@
+/*
+Caleb Jennings - u25173805
+Anchen Kruger - u25073703
+Chloe Larsen - u25004141
+*/
 public class BakeryLock implements Lock {
 
     private final int n;
